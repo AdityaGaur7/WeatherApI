@@ -75,6 +75,7 @@ button:hover {
   gap: 20px;
   border: 1px solid black;
   padding: 1rem;
+  margin: 1rem;
 }
 .weather-img{
   display: flex;
